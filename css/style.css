@@ -1,0 +1,14 @@
+div{
+    position: absolute;
+    left: 100px;
+    top: 50px;
+}
+#główny{
+    position: relative;
+    left: 100px;
+    top: 50px;
+}
+body{
+    background-color: black;
+    color:white;   
+}
